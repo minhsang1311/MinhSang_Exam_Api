@@ -1,7 +1,6 @@
-/Users/minhsang/Downloads/MinhSang_Exam/src/main/java/org/example/database/JDBCUtil.java
-/Users/minhsang/Downloads/MinhSang_Exam/src/main/java/org/example/repository/EmployeeRepository.java
-/Users/minhsang/Downloads/MinhSang_Exam/src/main/java/org/example/service/EmployeeService.java
-/Users/minhsang/Downloads/MinhSang_Exam/src/main/java/org/example/Main.java
-/Users/minhsang/Downloads/MinhSang_Exam/src/main/java/org/example/Entity/Employee.java
-/Users/minhsang/Downloads/MinhSang_Exam/src/main/java/org/example/controller/EmployeeController.java
-/Users/minhsang/Downloads/MinhSang_Exam/src/main/java/org/example/database/CreateTable.java
+/Users/minhsang/Documents/GitHub/MinhSang_Exam/src/main/java/com/example/employeemanagement/Entity/Employee.java
+/Users/minhsang/Documents/GitHub/MinhSang_Exam/src/main/java/com/example/employeemanagement/database/CreateTable.java
+/Users/minhsang/Documents/GitHub/MinhSang_Exam/src/main/java/com/example/employeemanagement/service/EmployeeService.java
+/Users/minhsang/Documents/GitHub/MinhSang_Exam/src/main/java/com/example/employeemanagement/database/JDBCUtil.java
+/Users/minhsang/Documents/GitHub/MinhSang_Exam/src/main/java/com/example/employeemanagement/controller/EmployeeController.java
+/Users/minhsang/Documents/GitHub/MinhSang_Exam/src/main/java/com/example/employeemanagement/repository/EmployeeRepository.java

@@ -1,4 +1,4 @@
-package org.example.database;
+package com.example.employeemanagement.database;
 
 import java.sql.Connection;
 import java.sql.SQLException;

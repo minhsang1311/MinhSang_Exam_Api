@@ -1,4 +1,4 @@
-package org.example.Entity;
+package com.example.employeemanagement.Entity;
 
 
 import javax.persistence.*;

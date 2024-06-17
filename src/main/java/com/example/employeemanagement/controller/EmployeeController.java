@@ -1,7 +1,7 @@
-package org.example.controller;
+package com.example.employeemanagement.controller;
 
-import org.example.Entity.Employee;
-import org.example.service.EmployeeService;
+import com.example.employeemanagement.Entity.Employee;
+import com.example.employeemanagement.service.EmployeeService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

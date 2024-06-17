@@ -1,6 +1,6 @@
-package org.example.service;
-import org.example.Entity.Employee;
-import org.example.repository.EmployeeRepository;
+package com.example.employeemanagement.service;
+import com.example.employeemanagement.Entity.Employee;
+import com.example.employeemanagement.repository.EmployeeRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import java.util.List;
